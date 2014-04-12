@@ -1,0 +1,21 @@
+・水星：mercury_rgb_cyl_www.jpg
+・金星：venus4_rgb_cyl_www.jpg
+・木星：jupiter_rgb_cyl_www.jpg
+http://laps.noaa.gov/albers/sos/sos.html
+
+・地球：earthmap10k.reduced.jpg
+http://www.etsonly.com/images/scoreboard/earthmap10k.reduced.jpg
+(個人webサイト)
+
+・火星：mars1_src.jpg
+・土星：saturn.jpg
+http://www.vendian.org/mncharity/dir3/planet_globes/
+(個人webサイト)
+
+・月
+moon_map_002.jpg
+http://www.physics.unlv.edu/~jeffery/astro/moon/map/moon_map_002.jpg
+
+・JPG画像サイズ調整ソフト
+Easy Picture Resizer
+http://www.vector.co.jp/soft/dl/winnt/art/se480109.html
